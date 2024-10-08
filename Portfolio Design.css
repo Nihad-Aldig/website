@@ -1,0 +1,43 @@
+h1{
+  color: black;
+  font-size: 50;
+}
+nav a {
+  text-decoration: none;
+}
+nav li {
+  list-style-type: none;
+  display:inline-block;
+  padding-right: 20px;
+}
+p {
+  font-size: 25px;
+  background-color: #black;
+}
+
+nav {
+  background-color: black;
+  padding: 25
+}
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+.row:after {
+  display: table;
+  clear: both;
+}
+.Spotify{
+  padding-left: 18px;
+}
+
+.Youtube{
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
+
+.Twitter{
+  padding-left: 15px;
+  padding-bottom: 30px;
+}
